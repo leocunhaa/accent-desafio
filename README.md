@@ -4,11 +4,9 @@ Este repositório contém a automação completa do desafio técnico utilizando 
 
 ## 📌 Tecnologias Utilizadas
 
-- **Cypress** - Framework principal para automação de testes.
-- **Faker.js** - Utilizado para gerar dados fictícios (nomes, emails, etc.).
-- **Axios** - Para chamadas HTTP nos testes de API.
+- **Cypress** - Linguagem principal para automação de testes e testes das API.
 - **Cucumber BDD** - Implementado no teste da Web Tables.
-- **Node.js** - Ambiente de execução dos testes.
+- **Node.js** - Ambiente de execução dos testes e instalanção de dependencias.
 
 ## 📂 Estrutura do Projeto
 
