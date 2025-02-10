@@ -1,4 +1,4 @@
-# Desafio de Automação - Accenture 🚀
+# Desafio de Automação 🚀
 
 Este repositório contém a automação completa do desafio técnico utilizando **Cypress** para testes E2E e API, além de **Cucumber BDD** para um dos testes como bônus. Todos os testes foram organizados em pastas específicas para facilitar a navegação e compreensão da estrutura do projeto.
 
